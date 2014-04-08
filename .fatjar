@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon Jan 13 12:03:28 GMT-03:00 2014
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=2nfc_fat.jar
+manifest.mergeall=true
+manifest.mainclass=com.conosur.nfc.NFC
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
